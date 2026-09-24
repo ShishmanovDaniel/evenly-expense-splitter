@@ -29,3 +29,4 @@ Build for production:
 npm run build
 ```
 # math-tutoring
+# evenly-expense-splitter
